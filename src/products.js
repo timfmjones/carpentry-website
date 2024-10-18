@@ -17,8 +17,8 @@ const products = [
     { id: 10, name: 'Stool and Chair Combo', price: '$150', image: '/images/muskoka-stool-chair-combo.jpg', type: 'muskoka-chairs', popular: false },
   
     // Kitchen items
-    { id: 11, name: 'Kitchen Knife Set', price: '$80', image: '/images/knifeset.jpg', type: 'kitchen', popular: true },
-    { id: 12, name: 'Butter Knife', price: '$10', image: '/images/butterknife.jpg', type: 'kitchen', popular: false },
+    { id: 11, name: 'Kitchen Knife Set', price: '$80', image: '/images/knifeset.jpg', type: 'kitchen', popular: false },
+    { id: 12, name: 'Butter Knife', price: '$10', image: '/images/butterknife.jpg', type: 'kitchen', popular: true },
     { id: 13, name: 'Cutting Board', price: '$30', image: '/images/cuttingboard.jpg', type: 'kitchen', popular: true },
   ];
   
