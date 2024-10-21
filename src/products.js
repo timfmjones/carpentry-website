@@ -11,10 +11,10 @@ const products = [
     { id: 6, name: 'Picture Frame - 8x10', price: '$25', image: '/images/pictureframe-8x10.jpg', type: 'picture-frames', popular: true },
   
     // Muskoka Chairs with variants
-    { id: 7, name: 'Muskoka Chair', price: '$120', image: '/images/muskokachair.jpg', type: 'muskoka-chairs', popular: true },
-    { id: 8, name: 'Muskoka Chair Stool', price: '$40', image: '/images/muskoka-stool.jpg', type: 'muskoka-chairs', popular: false },
-    { id: 9, name: 'Rocking Muskoka Chair', price: '$150', image: '/images/muskoka-rocking-chair.jpg', type: 'muskoka-chairs', popular: true },
-    { id: 10, name: 'Stool and Chair Combo', price: '$150', image: '/images/muskoka-stool-chair-combo.jpg', type: 'muskoka-chairs', popular: false },
+    { id: 7, name: 'Muskoka Chair', price: '$150', image: '/images/muskokachair.jpg', type: 'muskoka-chairs', popular: true },
+    { id: 8, name: 'Muskoka Chair Stool', price: '$60', image: '/images/muskoka-stool.jpg', type: 'muskoka-chairs', popular: false },
+    { id: 9, name: 'Rocking Muskoka Chair', price: '$200', image: '/images/muskoka-rocking-chair.jpg', type: 'muskoka-chairs', popular: true },
+    { id: 10, name: 'Stool and Chair Combo', price: '$180', image: '/images/muskoka-stool-chair-combo.jpg', type: 'muskoka-chairs', popular: false },
   
     // Kitchen items
     { id: 11, name: 'Kitchen Knife Set', price: '$80', image: '/images/knifeset.jpg', type: 'kitchen', popular: false },
