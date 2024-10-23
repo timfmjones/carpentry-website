@@ -14,7 +14,7 @@ const products = [
     { id: 7, name: 'Muskoka Chair', price: '$150', image: '/images/muskokachair.jpg', type: 'muskoka-chairs', popular: true },
     { id: 8, name: 'Muskoka Chair Stool', price: '$60', image: '/images/muskoka-stool.jpg', type: 'muskoka-chairs', popular: false },
     { id: 9, name: 'Rocking Muskoka Chair', price: '$200', image: '/images/muskoka-rocking-chair.jpg', type: 'muskoka-chairs', popular: false },
-    { id: 10, name: 'Stool and Chair Combo', price: '$180', image: '/images/muskoka-stool-chair-combo.jpg', type: 'muskoka-chairs', popular: true },
+    { id: 10, name: 'Chair and Stool Combo', price: '$180', image: '/images/muskoka-stool-chair-combo.jpg', type: 'muskoka-chairs', popular: true },
   
     // Kitchen items
     { id: 11, name: 'Kitchen Knife Set', price: '$80', image: '/images/knifeset.jpg', type: 'kitchen', popular: false },
