@@ -1,4 +1,3 @@
-/* HomePage.css */
 .product-scroll {
     display: flex;
     overflow-x: auto;
@@ -52,7 +51,6 @@
   }
 
 
-/* HomePage.css */
 .search-bar {
     width: 100%;
     max-width: 400px;

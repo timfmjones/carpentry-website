@@ -1,4 +1,3 @@
-// src/components/AllProductsPage.js
 import React from 'react';
 import products from '../products';
 import './AllProductsPage.css';
