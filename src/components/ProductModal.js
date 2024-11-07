@@ -24,7 +24,7 @@ const ProductModal = () => {
   return (
     <Modal isOpen={true} onRequestClose={closeModal}>
       <h2>{product.name}</h2>
-      <p>Material used: {product.material}</p>
+      <p>Material: {product.material}</p>
       <p>{product.otherInfo}</p>
       <button onClick={closeModal}>Close</button>
     </Modal>
