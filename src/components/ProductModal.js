@@ -14,7 +14,7 @@ const ProductModal = () => {
   const navigate = useNavigate();
 
   if (!product) {
-    return <p>Product not found.</p>;
+    return <p>No Product Found.</p>;
   }
 
   const closeModal = () => {
