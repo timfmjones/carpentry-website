@@ -3,7 +3,7 @@ import { useParams, useNavigate } from 'react-router-dom';
 import Modal from 'react-modal';
 
 const productDetails = {
-  1: { name: 'Chess Board Deluxe', material: 'Wood', otherInfo: 'Handcrafted' },
+  1: { name: 'Chess Board Deluxe', material: 'Wood, Oak, Red Oak', otherInfo: 'Handcrafted' },
   2: { name: 'Classic Picture Frame', material: 'Oak', otherInfo: 'Engraved' },
   // Add more product details as needed
 };
